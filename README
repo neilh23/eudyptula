@@ -1,0 +1,14 @@
+Eudyptula
+===
+
+If you are reading this, it's got out ...
+
+Eudyptula is realtime software synth specifically for making live drone/noise music,
+available for GNU/Linux, Mac OS X and Microsoft Windows. At time of writing, only the
+GNU/Linux version has been tested.
+
+It consists of an array of oscillators, filters and control nodes, configurable
+using script files, which are controlled by keyboard/mouse/Midi/OSC events.
+
+The general design principles are that the GUI is for feedback only, and that nothing
+is quantised (rounded to the nearest note/constricted in timing).

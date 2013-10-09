@@ -1,0 +1,20 @@
+Quantisation option
+Audio should be a node
+Node Routing - need to read up on graph theory :-/
+Generic 'events' Trigger + dial (replacing explicit keyboard/mouse)
+sort out comments/LICENSE
+move inline'd code into either inline section, or seperate .cc
+Add to git hub
+Improve Noise node - bandlimit, and use band as frequency
+More Effect Nodes (echo/Low Pass/High Pass etc)
+Frequency Modulation
+Save/swap between buffers (number keys?)
+Control groups
+Name control groups & print on screen
+LFO control
+MIDI Control
+Graphical feedback - pretty visualisations
+Build under windows
+Build under OSX
+...
+Profit!
